@@ -3,6 +3,7 @@ module userAgentServer
 go 1.15
 
 require (
+	github.com/bmizerany/pq v0.0.0-20131128184720-da2b95e392c1 // indirect
 	github.com/boombuler/barcode v1.0.0
 	github.com/fvbock/endless v0.0.0-20170109170031-447134032cb6
 	github.com/gin-gonic/gin v1.6.3
